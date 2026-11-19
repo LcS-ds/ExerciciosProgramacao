@@ -1,0 +1,19 @@
+SAÍDAS DOS EXERCÍCIOS DE PROGRAMAÇÃO E ALGORITMOS
+
+EntradaDeDados
+Entrada de exemplo: Lucas
+Mensagem: Seja bem vindo Lucas!
+
+EntradaNumero
+Entrada de exemplo: 8989
+Mensagem: O numero digitado foi: 8989
+
+heranca.Main2
+O veículo está se movendo
+O carro está andando pela estrada
+
+instanciacao.Main
+Cria um objeto Carro, atribui o modelo Civic e encerra sem imprimir no console.
+
+encapsulamento.Main
+Lucas
